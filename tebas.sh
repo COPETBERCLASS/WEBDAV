@@ -40,8 +40,6 @@ echo
 echo $red"##########################$green" hello_madafaka "$red###########################"
 echo
 echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green"."$yellow"Tebas Index"$cyan
-echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green"."$yellow"Web Scan"$cyan
-echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green"."$yellow"Auto Deface"$cyan
 echo
 echo $cyan"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
@@ -67,110 +65,22 @@ echo
 echo $red "Simpan SC elu Di Memory Internal Di Luar Folder "
 echo
 echo $yellow "Live Target"
-echo $white "http://officeelf.co.za"
-echo "http://lioop-1539.org"
-echo "http://happy.mikikk.co.jp"
-echo "http://happy.mikikk.co.jp"
-echo "http://www.alfunctiondesigns.co.za"
-echo "http://mix007.co.za"
-echo "http://spyroom.co.za"
-echo "http://sportspod.co.za"
-echo "http://southernafricablog.com"
-echo "http://stand66.com"
-echo "http://tapifare.com"
-echo "http://tankertech.co.za"
-echo "http://tcnig.co.za"
-echo "http://tcmgroup.co.za"
-echo "http://liessor.co.za"
-echo "http://liafficam.co.za"
-echo "http://tuthukani.co.za"
-echo "http://nyarhi.co.za"
-echo "http://digishop.co.za"
-echo "http://elinemsa.co.za"
-echo "http://disucctv.co.za"
-echo "http://www.cai.co.za"
-echo "http://tirupurjobs.net"
-echo "http://inlislitev3.perpusnas.go.id"
-echo "http://clcooling.co.za"
-echo "http://sublimeconfectionery.co.za"
-echo "http://gogreenplumbing.co.za"
-echo "http://golfbuzz.co.za"
-echo "http://grupo-cma.com"
-echo "http://inkspot.co.za"
-echo "http://kgarebana.co.za"
-echo "http://itliader.co.za"
-echo "http://itliader.co.za"
-echo "http://hellomobile.mobi"
-echo "http://homebuzz.co.za"
-echo "http://gordonhoward.co.za"
-echo "http://democonsliuction.co.za"
-echo "http://chasingfantasia.co.za"
-echo "http://litehouse.co.za"
-echo "http://ldata.co.za"
-echo "http://lunique.co.za"
-echo "http://chillibitez.co.za"
-echo "http://cmweb.co.za"
-echo "http://essentialtours.com"
-echo "http://entitledvip.com"
-echo "http://frankadesign.com"
-echo "http://forget-me-not.co.za"
-echo "http://findpersonnel.co.za"
-echo "http://everythingdating.co.za"
-echo "http://gofigureliaining.co.za"
-echo "http://mistyorchards.co.za"
-echo "http://i2iconsulting.co.za"
-echo "http://hulsmandoors.co.za"
-echo "http://n8tive.co.za"
-echo "http://mullets.co.za"
-echo "http://lunique.co.za"
-echo "http://marcuskneen.co.za"
-echo "http://maggis.co.za"
-echo "http://mambabiz.com"
-echo "http://loveless.co.za"
-echo "http://legal-loans.co.za"
-echo "http://lefort.co.za"
-echo "http://lavoro.co.za"
-echo "http://kohl.co.za"
-echo "http://kobralocks.com"
-echo "http://karma-it.co.za"
-echo "http://kalinga.co.za"
-echo "http://ihx.co.za"
-echo "http://homes2view.co.za"
-echo "http://careandcure.cc"
-echo "http://officezone.co.za"
-echo "http://nhisa.co.za"
-echo "http://sinudeity.co.za"
-echo "http://bitpc.co.za"
-echo "http://inkspot.co.za"
-echo "http://agssela.co.za"
-echo "http://grassroute.co.za"
-echo "http://stseng.co.za"
-echo "http://sabookings.co.za"
-echo "http://nhsgilde.co.za"
-echo "ttp://agridex.net"
-echo "http://stitchaccounting.co.za"
-echo "http://cavalier.za.net"
-echo "http://ftkliust.co.za"
-echo "http://eveni.co.za"
-echo "http://lilabs.co.za"
-echo "http://quintessential-tours.com"
-echo "http://colourfactory.co.za"
-echo "http://chillibitez.co.za"
-echo "http://chasingfantasia.com"
-echo "http://centraltech.co.za"
-echo "http://cblandscapes.co.za"
-echo "http://crimsonmonkeyweb.com"
-echo "http://kevinbutho.com"
-echo "http://prorepafrica.com"
-echo "http://xposurephotography.co.za"
-echo "http://windmillsandporcupines.co.za"
-echo "http://tcnig.co.za"
-echo "http://techdirect.co.za"
-echo "http://crimsonmonkeyweb.com"
-echo "http://valdicare.co.za"
-echo "http://savanacloud.com"
+echo "http://cmweb.co.za"VULN
+echo "http://essentialtours.com"VULN
+echo "http://n8tive.co.za"VULN
+echo "http://loveless.co.za"VULN
+echo "http://kobralocks.com"VULN
+echo "http://karma-it.co.za"VULN
+echo "http://homes2view.co.za"VULN
+echo "http://sinudeity.co.za"VULN
+echo "http://nhsgilde.co.za"VULN
+echo "http://stitchaccounting.co.za"VULN
+echo "http://quintessential-tours.com"VULN
+echo "http://crimsonmonkeyweb.com"VULN
+echo "http://windmillsandporcupines.co.za"VULN
+echo "http://crimsonmonkeyweb.com"VULN
 echo
-echo $red "gassss mang!!!"
+echo $red "MASUKIN TARGET ASU!!!"
 echo $green "╭─"$blue"DEMON|TEAM"$cyan" ~/RABBIT-ST"$white
 read -p " ╰─$ "  target
 echo
